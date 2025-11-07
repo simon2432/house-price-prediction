@@ -38,6 +38,7 @@ This project applies supervised machine learning techniques to predict house sal
    - Linear Regression
    - Ridge Regression
    - Lasso Regression
+   - Neural network
 
 4. **Evaluation**
    - Metrics: MAE, MSE, RMSE, R²
